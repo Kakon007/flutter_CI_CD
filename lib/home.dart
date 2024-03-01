@@ -18,7 +18,7 @@ class HomeView extends StatelessWidget {
                   text: 'a CI/CD',
                   style: TextStyle(fontWeight: FontWeight.bold),
                 ),
-                TextSpan(text: 'example!'),
+                TextSpan(text: 'example test!'),
               ],
             ),
           ),
